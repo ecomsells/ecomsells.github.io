@@ -42491,7 +42491,7 @@
           .u-table-alt-custom-color-8 tr:nth-child(even)
           {
               color: #ffffff;
-              background-color: #da7c37;
+              background-color: #c31b1b;
           }
   
           .u-input.u-custom-color-8,
@@ -42500,7 +42500,7 @@
           .u-button-style.u-custom-color-8[class*="u-border-"]
           {
               color: #ffffff !important;
-              background-color: #c31b1b !important;
+              background-color: #da7c37 !important;
           }
   
           .u-button-style.u-custom-color-8:hover,
